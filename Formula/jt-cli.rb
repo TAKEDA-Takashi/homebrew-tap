@@ -1,8 +1,8 @@
 class JtCli < Formula
   desc "JSONata query and transformation tool for the command line"
   homepage "https://github.com/TAKEDA-Takashi/jt-cli"
-  url "https://registry.npmjs.org/@2017takeda/jt-cli/-/jt-cli-1.3.0.tgz"
-  sha256 "db237b288b699f571aa90952d6a4eea0776a1f332af426928e4c2c4b275003c9"
+  url "https://registry.npmjs.org/@2017takeda/jt-cli/-/jt-cli-1.3.1.tgz"
+  sha256 "df8b944d24c58cdad97593014164c066249d61dcd8a3148960bc63f72ea2994b"
   license "MIT"
 
   depends_on "node"
